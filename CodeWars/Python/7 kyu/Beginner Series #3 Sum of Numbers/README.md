@@ -1,0 +1,1 @@
+Beginner Series #3 Sum of Numbers=[Get more information about kata...](/kata/55f2b110f61eb01779000053)

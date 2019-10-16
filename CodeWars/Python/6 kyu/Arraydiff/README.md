@@ -1,0 +1,1 @@
+Array.diff=[Get more information about kata...](/kata/523f5d21c841566fde000009)

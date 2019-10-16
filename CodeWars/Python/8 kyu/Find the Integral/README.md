@@ -1,0 +1,1 @@
+Find the Integral=[Get more information about kata...](/kata/59811fd8a070625d4c000013)

@@ -1,0 +1,1 @@
+Remove exclamation marks=[Get more information about kata...](/kata/57a0885cbb9944e24c00008e)
