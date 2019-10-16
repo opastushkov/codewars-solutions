@@ -1,3 +1,3 @@
 Credit Card Mask
 =
-[Get more information about kata...](/kata/5412509bd436bd33920011bc)
+[Get more information about kata...](https://www.codewars.com//kata//kata/5412509bd436bd33920011bc)

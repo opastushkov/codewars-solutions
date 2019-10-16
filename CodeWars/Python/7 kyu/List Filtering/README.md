@@ -1,3 +1,3 @@
 List Filtering
 =
-[Get more information about kata...](/kata/53dbd5315a3c69eed20002dd)
+[Get more information about kata...](https://www.codewars.com//kata//kata/53dbd5315a3c69eed20002dd)

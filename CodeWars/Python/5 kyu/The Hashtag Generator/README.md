@@ -1,3 +1,3 @@
 The Hashtag Generator
 =
-[Get more information about kata...](/kata/52449b062fb80683ec000024)
+[Get more information about kata...](https://www.codewars.com//kata//kata/52449b062fb80683ec000024)
