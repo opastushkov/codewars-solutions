@@ -1,1 +1,3 @@
-Binary Addition=[Get more information about kata...](/kata/551f37452ff852b7bd000139)
+Binary Addition
+=
+[Get more information about kata...](/kata/551f37452ff852b7bd000139)

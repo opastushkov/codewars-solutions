@@ -1,1 +1,3 @@
-Range Extraction=[Get more information about kata...](/kata/51ba717bb08c1cd60f00002f)
+Range Extraction
+=
+[Get more information about kata...](/kata/51ba717bb08c1cd60f00002f)

@@ -1,1 +1,3 @@
-Counting sheep...=[Get more information about kata...](/kata/54edbc7200b811e956000556)
+Counting sheep...
+=
+[Get more information about kata...](/kata/54edbc7200b811e956000556)

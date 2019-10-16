@@ -1,1 +1,3 @@
-Reverse polish notation calculator=[Get more information about kata...](/kata/52f78966747862fc9a0009ae)
+Reverse polish notation calculator
+=
+[Get more information about kata...](/kata/52f78966747862fc9a0009ae)

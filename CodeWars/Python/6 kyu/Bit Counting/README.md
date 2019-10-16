@@ -1,1 +1,3 @@
-Bit Counting=[Get more information about kata...](/kata/526571aae218b8ee490006f4)
+Bit Counting
+=
+[Get more information about kata...](/kata/526571aae218b8ee490006f4)

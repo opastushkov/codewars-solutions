@@ -1,1 +1,3 @@
-Form The Minimum=[Get more information about kata...](/kata/5ac6932b2f317b96980000ca)
+Form The Minimum
+=
+[Get more information about kata...](/kata/5ac6932b2f317b96980000ca)

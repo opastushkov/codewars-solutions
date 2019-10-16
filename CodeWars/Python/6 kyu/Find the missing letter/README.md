@@ -1,1 +1,3 @@
-Find the missing letter=[Get more information about kata...](/kata/5839edaa6754d6fec10000a2)
+Find the missing letter
+=
+[Get more information about kata...](/kata/5839edaa6754d6fec10000a2)

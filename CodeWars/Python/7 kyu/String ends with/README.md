@@ -1,1 +1,3 @@
-String ends with?=[Get more information about kata...](/kata/51f2d1cafc9c0f745c00037d)
+String ends with?
+=
+[Get more information about kata...](/kata/51f2d1cafc9c0f745c00037d)
