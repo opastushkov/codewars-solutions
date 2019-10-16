@@ -1,3 +1,3 @@
 Counting Duplicates
 =
-[Get more information about kata...](https://www.codewars.com//kata//kata/54bf1c2cd5b56cc47f0007a1)
+[Get more information about kata...](https://www.codewars.com//kata/54bf1c2cd5b56cc47f0007a1)

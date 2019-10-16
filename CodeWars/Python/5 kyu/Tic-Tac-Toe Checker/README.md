@@ -1,3 +1,3 @@
 Tic-Tac-Toe Checker
 =
-[Get more information about kata...](https://www.codewars.com//kata//kata/525caa5c1bf619d28c000335)
+[Get more information about kata...](https://www.codewars.com//kata/525caa5c1bf619d28c000335)

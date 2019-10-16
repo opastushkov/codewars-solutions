@@ -1,3 +1,3 @@
 First non-repeating character
 =
-[Get more information about kata...](https://www.codewars.com//kata//kata/52bc74d4ac05d0945d00054e)
+[Get more information about kata...](https://www.codewars.com//kata/52bc74d4ac05d0945d00054e)

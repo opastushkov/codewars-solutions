@@ -1,3 +1,3 @@
 String ends with?
 =
-[Get more information about kata...](https://www.codewars.com//kata//kata/51f2d1cafc9c0f745c00037d)
+[Get more information about kata...](https://www.codewars.com//kata/51f2d1cafc9c0f745c00037d)
