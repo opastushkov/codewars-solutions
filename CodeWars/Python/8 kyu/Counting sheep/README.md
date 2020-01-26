@@ -1,3 +1,0 @@
-Counting sheep...
-=
-[Get more information about kata...](https://www.codewars.com//kata/54edbc7200b811e956000556)

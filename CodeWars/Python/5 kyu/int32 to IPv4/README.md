@@ -1,3 +1,1 @@
-int32 to IPv4
-=
-[Get more information about kata...](https://www.codewars.com//kata/52e88b39ffb6ac53a400022e)
+Link: /kata/52e88b39ffb6ac53a400022e

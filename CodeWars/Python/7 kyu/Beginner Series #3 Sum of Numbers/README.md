@@ -1,3 +1,1 @@
-Beginner Series #3 Sum of Numbers
-=
-[Get more information about kata...](https://www.codewars.com//kata/55f2b110f61eb01779000053)
+Link: /kata/55f2b110f61eb01779000053

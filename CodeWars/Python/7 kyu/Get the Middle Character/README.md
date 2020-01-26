@@ -1,3 +1,1 @@
-Get the Middle Character
-=
-[Get more information about kata...](https://www.codewars.com//kata/56747fd5cb988479af000028)
+Link: /kata/56747fd5cb988479af000028

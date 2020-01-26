@@ -1,3 +1,1 @@
-Abbreviate a Two Word Name
-=
-[Get more information about kata...](https://www.codewars.com//kata/57eadb7ecd143f4c9c0000a3)
+Link: /kata/57eadb7ecd143f4c9c0000a3

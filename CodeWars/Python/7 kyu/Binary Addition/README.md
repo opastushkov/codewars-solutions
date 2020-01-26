@@ -1,3 +1,1 @@
-Binary Addition
-=
-[Get more information about kata...](https://www.codewars.com//kata/551f37452ff852b7bd000139)
+Link: /kata/551f37452ff852b7bd000139

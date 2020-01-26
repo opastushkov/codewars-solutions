@@ -1,3 +1,1 @@
-Square Every Digit
-=
-[Get more information about kata...](https://www.codewars.com//kata/546e2562b03326a88e000020)
+Link: /kata/546e2562b03326a88e000020

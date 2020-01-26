@@ -1,3 +1,1 @@
-Highest and Lowest
-=
-[Get more information about kata...](https://www.codewars.com//kata/554b4ac871d6813a03000035)
+Link: /kata/554b4ac871d6813a03000035

@@ -1,3 +1,1 @@
-Sum of a sequence
-=
-[Get more information about kata...](https://www.codewars.com//kata/586f6741c66d18c22800010a)
+Link: /kata/586f6741c66d18c22800010a

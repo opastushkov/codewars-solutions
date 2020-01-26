@@ -1,3 +1,1 @@
-Reverse a Number
-=
-[Get more information about kata...](https://www.codewars.com//kata/555bfd6f9f9f52680f0000c5)
+Link: /kata/555bfd6f9f9f52680f0000c5
